@@ -44,7 +44,7 @@ A modern real estate web application built with React, featuring property listin
 
 **Technologies:** React.js, JavaScript, CSS, REST API
 
-🔗 [View Project](https://github.com/IslamBasuony/Reale-state-react)
+🔗 [Live Demo](https://reale-state-react-woad.vercel.app/) | [View Repository](https://github.com/IslamBasuony/Reale-state-react)
 
 ---
 
