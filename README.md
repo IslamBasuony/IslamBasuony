@@ -48,13 +48,13 @@ A modern real estate web application built with React, featuring property listin
 
 ---
 
-### 🍽️ OmniFood
+### Car-AutoHub
 
-A responsive food website focused on modern UI design, responsive layouts, and a clean user experience.
+A modern car showcase platform built with Next.js (App Router), featuring new and used car listings, search and filters, and live vehicle photos pulled from Wikimedia Commons.
 
-**Technologies:** HTML5, CSS3, JavaScript
+**Technologies:** Next.js, React.js, Tailwind CSS
 
-🔗 [View Repository](https://github.com/IslamBasuony/omni-food)
+🔗 [Live Demo](https://car-auto-hub.vercel.app/) | [View Repository](https://github.com/IslamBasuony/Car-AutoHub)
 
 ---
 
